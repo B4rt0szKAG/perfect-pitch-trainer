@@ -1,0 +1,3 @@
+/home/jdo3/Desktop/c++/projekt1/CMakeFiles/projekt1.dir
+/home/jdo3/Desktop/c++/projekt1/CMakeFiles/edit_cache.dir
+/home/jdo3/Desktop/c++/projekt1/CMakeFiles/rebuild_cache.dir

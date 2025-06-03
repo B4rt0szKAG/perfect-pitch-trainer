@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/projekt1.dir/link.d CMakeFiles/projekt1.dir/main.cpp.o CMakeFiles/projekt1.dir/player.cpp.o -o projekt1  -lreadline

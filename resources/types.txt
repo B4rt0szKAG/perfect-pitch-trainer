@@ -1,0 +1,2 @@
+#here you can add types
+C_major:C4D4E4F4G4A4B4C5
